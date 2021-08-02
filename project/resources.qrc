@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Fotos">
+        <file>Fotos/Background.jpg</file>
+        <file>Fotos/Ball.png</file>
+        <file>Fotos/crown.png</file>
+        <file>Fotos/Dreieck.png</file>
+        <file>Fotos/Kreis.png</file>
+        <file>Fotos/Square.png</file>
+        <file>Fotos/Padlle.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
